@@ -1,0 +1,106 @@
+
+.result-container {
+	background-image: url('./bg.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center; /* Centers the form horizontally */
+	align-items: center; /* Centers the form vertically */
+	flex-direction: column;
+	overflow: hidden;
+  }
+  
+  .result-form {
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	width: 460px;
+	height: 350px;
+	border: 2px solid black;
+	border-radius: 36px;
+	align-items: center;
+	
+  }
+.icon-boxx
+{
+	/* background-color: red; */
+	display: flex;
+	align-items: center;
+	justify-content:center;
+	width: 100%;
+	height: 100px;
+
+
+}
+.text-boxx {
+	display: flex;
+	flex-direction: column;  /* Ensures the content is stacked vertically */
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 100px;
+	margin-top: 20px;
+  }
+  
+  .text-boxx h1 {
+	font-size: 25px;
+	font-weight: bold;
+	color: #128815; /* Green color for the winner */
+	text-align: center;
+	margin-top:-5px ;
+  }
+  
+  .text-boxx h3 {
+	color: #525252;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+	font-size: 22px;
+	text-align: center;
+	margin-top: -18px;
+  }
+  
+.winner-img
+{
+	/* background-color: red; */
+	width: 50%;
+/*	height: 80px;*/
+    margin-top:10px;
+}
+.winner-icon
+{
+	/* background-color: red; */
+	width: 100px;
+	height: 100px;
+    margin-top:-10px;
+    
+}
+.result-button {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 8px;
+    box-sizing:border-box;
+    background-color: #007bff; 
+    color: white;
+    border: none;
+/*    border: 3px solid black;*/
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top:-10px;
+    margin-bottom: 5px;
+    width:100px;
+
+} 
+
+.result-button:hover {
+    background-color: #0056b3;
+}
+.result-button .tick-icon{
+    width: 30px;
+    height: 30px;
+/*    margin-left:-10px;*/
+
+}

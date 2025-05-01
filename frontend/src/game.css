@@ -1,0 +1,55 @@
+.canvas
+{
+	width: 600px;
+	height: 500px;
+	border: 2px solid black;
+	background-color: white;
+	margin-top: 50px;
+	overflow: hidden;
+}
+body
+{
+	background-color: lightgrey;
+}
+
+.chat-container
+{
+	display: flex;
+	flex-direction: column;
+    border: 2px solid black;
+     align-items: center;
+  margin-top: 10px;
+}
+.chat-box
+{
+	width: 600px;
+	height: 150px;
+	overflow-y: auto;
+	border: 1px solid red;
+	background-color: #f9f9f9;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.chat-message
+{
+/*	margin-bottom: 5px;*/
+}
+
+.chat-input
+{
+	width: 500px;
+	padding: 5px;
+/*	margin-right: 5px;*/
+}
+
+.send-button
+{
+	background-color: lightblue;
+	padding: 5px 10px;
+}
+
+.sidebar
+{
+	background-color: lightyellow;
+}
