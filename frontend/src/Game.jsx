@@ -569,7 +569,10 @@ useEffect(() => {
 //----------------------------------------------------------------------------------------------------
 
     // Initialize socket connection
-    socket.current = io('http://localhost:5000');
+    // socket.current = io('https://major-backend-gn1y.onrender.com');
+      socket.current = io('https://major-backend-gn1y.onrender.com', {
+        transports: ['websocket'],
+      });
 
     // Join room with the id 
     socket.current.emit('joinroom', { name, roomId });

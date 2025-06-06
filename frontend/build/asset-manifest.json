@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/major_frontend/static/css/main.e205e094.css",
+    "main.js": "/major_frontend/static/js/main.87bbe72d.js",
+    "static/media/bgVideo.mp4": "/major_frontend/static/media/bgVideo.fdf742692edbf211f1d3.mp4",
+    "static/media/bg.png": "/major_frontend/static/media/bg.49f8a8a9d57c937d0191.png",
+    "static/media/winnerSound.mp3": "/major_frontend/static/media/winnerSound.827b9924b98a25b1e564.mp3",
+    "static/media/audio00.mp3": "/major_frontend/static/media/audio00.7e1fbc5b7ab8deec0395.mp3",
+    "static/media/winIcon.png": "/major_frontend/static/media/winIcon.2681e458e2b871df5e10.png",
+    "static/media/gameIcon.png": "/major_frontend/static/media/gameIcon.d8e5a210b8e8c3b349af.png",
+    "static/media/winBanner.png": "/major_frontend/static/media/winBanner.ca6a865453aa2a450256.png",
+    "static/media/tick.png": "/major_frontend/static/media/tick.33265c2a72f8016d45a5.png",
+    "static/media/rulesIcon.png": "/major_frontend/static/media/rulesIcon.069e63131a558184e842.png",
+    "static/media/rules.png": "/major_frontend/static/media/rules.d37ad40406030288a902.png",
+    "static/media/play.png": "/major_frontend/static/media/play.3faf03afa1b6253ca246.png",
+    "index.html": "/major_frontend/index.html",
+    "main.e205e094.css.map": "/major_frontend/static/css/main.e205e094.css.map",
+    "main.87bbe72d.js.map": "/major_frontend/static/js/main.87bbe72d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e205e094.css",
+    "static/js/main.87bbe72d.js"
+  ]
+}
