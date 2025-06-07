@@ -1,5 +1,5 @@
 # 🎮 DoodleDash - Real-Time Multiplayer Drawing & Guessing Game
-
+![DoodleDash Banner](screenshots/home.gif)
 DoodleDash is an engaging, real-time multiplayer game where players draw a word while others guess it — similar to Pictionary. It supports custom room creation, real-time drawing synchronization, in-room chat, animated timer bar, and ranks the players based on their performance.
 
 ---
@@ -39,6 +39,22 @@ DoodleDash is an engaging, real-time multiplayer game where players draw a word 
    - Timer and chat run in real-time.
    - Points are awarded for correct guesses.
    - Winner is shown at the end based on score.
+
+---
+
+## 📸 Screenshots
+
+### 🎨 Game Board
+![Game Board](screenshots/game.png)
+
+### 🏆 Winner Page
+![Winner Page](screenshots/winner.png)
+
+### 🗨️Chat Section
+![Chat Section](screenshots/chat.png)
+
+### ℹ️Rule Page
+![Rule Page](screenshots/rules.png)
 
 ---
 
