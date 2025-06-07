@@ -44,14 +44,11 @@ DoodleDash is an engaging, real-time multiplayer game where players draw a word 
 
 ## 📸 Screenshots
 
-### 🎨 Game Board
-![Game Board](screenshots/game.png)
+### 🎨 Game Page
+![Game Page](screenshots/game.png)
 
 ### 🏆 Winner Page
 ![Winner Page](screenshots/winner.png)
-
-### 🗨️Chat Section
-![Chat Section](screenshots/chat.png)
 
 ### ℹ️Rule Page
 ![Rule Page](screenshots/rules.png)
@@ -67,8 +64,11 @@ DoodleDash is an engaging, real-time multiplayer game where players draw a word 
 
 ## 📦 Running the Project Locally
 
-### Backend
+###  Frontend
+
 ```bash
-cd backend
 npm install
-node index.js
+npm start
+
+### ✅ Notes:
+- Make sure to run server from the major-backend repository.
