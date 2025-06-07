@@ -70,5 +70,5 @@ DoodleDash is an engaging, real-time multiplayer game where players draw a word 
 npm install
 npm start
 
-### ✅ Notes:
+✅ Notes:
 - Make sure to run server from the major-backend repository.
